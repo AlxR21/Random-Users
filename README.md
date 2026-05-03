@@ -22,3 +22,6 @@ A small React + Vite project that fetches and displays a list of random user pro
 ## Notes
 
 This project is built with React, Vite, and basic CSS for a clean presentation of random user cards.
+
+## Screenshot
+![Image-Web](public/Screenshot 2026-05-03 201551.png)
